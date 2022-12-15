@@ -1,6 +1,6 @@
 # Thesis: Democratizing Software Development and Machine Learning Using Low Code Applications
 
-This repository contains the dataset and codes that was used for the thesis. The thesis mainly consists of three chapters. Each contains its own repository under this master repository.
+This repository contains the dataset and codes that was used for the thesis. The thesis mainly consists of four chapters. Each contains its own repository under this master repository.
 
 ## Repository Structure:
 - `/Chapter_2:` dir
