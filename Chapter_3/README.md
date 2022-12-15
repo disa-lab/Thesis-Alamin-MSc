@@ -1,5 +1,6 @@
-# LCSD Challenge EMSE
-Replication package for Chapter 3 which was puslished as a journal paper title **``Developer discussion topics on the adoption and barriers of low code software development platforms.``**
+# Chapter 3: Emperical study of low-code practioners challenges while using LCSD platforms for developing general software applications.
+
+This repository contains replication package for Chapter 3 which was puslished as a journal paper title **``Developer discussion topics on the adoption and barriers of low code software development platforms.``**
 
 Link: https://link.springer.com/article/10.1007/s10664-022-10244-0
 
