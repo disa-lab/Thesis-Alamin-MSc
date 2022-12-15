@@ -1,5 +1,6 @@
-# Vibration Prediction model
+# Chapter 5: AutoGeoML: A Low Code Machine Learning Toolkit for Geothermal Software.
 
+This repository contains replication package for Chapter 4 where we develop AutoGeoML which is a low-code library for Geo-thermal Domain.
 
 ## File description
 **Utils.py**
