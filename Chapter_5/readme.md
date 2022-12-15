@@ -86,7 +86,7 @@ You need to write your own code to analyse the performance and the visualization
 * Need to implement features to store training dataset to files so that it can handle server restart.
 * Data interprolation method needs to be implemented in case the downhole sample rate is less than the sample rate of the feature variables.
 * Refactor the code to make it more modular
-* Add more code comments.
+
 
 
 
