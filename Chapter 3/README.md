@@ -1,5 +1,8 @@
 # LCSD Challenge EMSE
-Replication package for journal version of low-code software development practitioners challenges discussed in Stack Overflow.
+Replication package for Chapter 3 which was puslished as a journal paper title **``Developer discussion topics on the adoption and barriers of low code software development platforms.``**
+
+Link: https://link.springer.com/article/10.1007/s10664-022-10244-0
+
 
 
 ## Low Code Software Development
